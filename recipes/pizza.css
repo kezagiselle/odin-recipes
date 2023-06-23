@@ -1,0 +1,27 @@
+h1{
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace';
+
+}
+body{
+    background-color:beige
+}
+h2,h4{
+    color:purple
+}
+.bella{
+    font-style:italic;
+    font-size: 1em;
+}
+
+h3,h5{
+    color:purple;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+}

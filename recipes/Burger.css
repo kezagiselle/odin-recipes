@@ -1,0 +1,24 @@
+h1{
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color:antiquewhite;
+}
+h2,h3{
+    color:purple;
+}
+.bella{
+    font-size:1em;
+    font-style: italic;
+}
+img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+
+}
